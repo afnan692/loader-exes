@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-21T16:12:29.8546278+00:00",
+  "lastUpdated": "2026-09-21T16:31:28.3090799+00:00",
   "entries": [
     {
       "id": "cb3c39bb0fe143518d1ebcb6816dbc11",
@@ -9,7 +9,7 @@
       "version": "1.0.2",
       "fileSha256": "f4fa648518207331e330a10a363c35294a5fecd79df21d15df41b5101879e6d0",
       "fileSizeBytes": 7546368,
-      "isEnabled": true,
+      "isEnabled": false,
       "uploadedAt": "2026-09-21T16:12:19.7228689+00:00",
       "description": ""
     }
