@@ -1,7 +1,17 @@
-﻿{
+{
     "entries":  [
-
+                    {
+                        "fileSizeBytes":  7546368,
+                        "id":  "axc-premium-001",
+                        "fileName":  "AXC_PREMIUM.exe",
+                        "version":  "1.0.0",
+                        "description":  "Premium version with advanced features",
+                        "uploadedAt":  "2026-09-21T15:23:01.6599562+06:00",
+                        "fileSha256":  "f4fa648518207331e330a10a363c35294a5fecd79df21d15df41b5101879e6d0",
+                        "name":  "AXC PREMIUM",
+                        "isEnabled":  true
+                    }
                 ],
-    "lastUpdated":  "2026-09-21T14:54:56.6174780+06:00",
+    "lastUpdated":  "2026-09-21T15:23:01.6568882+06:00",
     "manifestVersion":  1
 }
