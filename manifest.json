@@ -1,5 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-25T14:40:32.7086734+00:00",
-  "entries": []
+  "lastUpdated": "2026-09-25T14:41:00.1330122+00:00",
+  "entries": [
+    {
+      "id": "edd352bfee464363a1ff8caaf1cfc67e",
+      "name": "AXC PREMIUM",
+      "fileName": "AXC PREMIUM.exe",
+      "version": "1.0.4",
+      "fileSha256": "5ff540e0d2d3fee04d951d93c067f92a0b92e7b8562df13dd04dea2415d5814c",
+      "fileSizeBytes": 7559680,
+      "isEnabled": true,
+      "uploadedAt": "2026-09-25T14:40:48.0795337+00:00",
+      "description": ""
+    }
+  ]
 }
