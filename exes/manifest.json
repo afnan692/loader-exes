@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "executables": [
+    {
+      "id": "loadermax-v1",
+      "fileName": "LOADERMAX.exe",
+      "displayName": "ADVANCE V3 Loader",
+      "version": "1.0.0",
+      "description": "ADVANCE V3 Loader for Free Fire - Injects ADVANCE V3.dll",
+      "size": 99123456,
+      "uploadDate": "2026-09-27T14:47:00Z",
+      "sha256": "",
+      "isEnabled": true
+    }
+  ]
+}
