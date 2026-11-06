@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-06T18:10:52.461844+00:00",
+  "lastUpdated": "2026-11-06T18:11:24.1228684+00:00",
   "entries": [
     {
       "id": "f3a6c78eb2dc40808b5a8ba413fc7730",
@@ -22,6 +22,17 @@
       "fileSizeBytes": 7574016,
       "isEnabled": true,
       "uploadedAt": "2026-10-29T15:17:36.664157+00:00",
+      "description": ""
+    },
+    {
+      "id": "ac2de929ebee466da21d886478a529dc",
+      "name": "A X C V2",
+      "fileName": "A X C.exe",
+      "version": "1.0.3",
+      "fileSha256": "99f3f9e31babf7e338218a81ecbff287782042bcb0292752d5b8d9b7e98dfdea",
+      "fileSizeBytes": 10376192,
+      "isEnabled": true,
+      "uploadedAt": "2026-11-06T18:11:09.9034629+00:00",
       "description": ""
     }
   ]
