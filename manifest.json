@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-27T15:33:37Z",
+  "lastUpdated": "2026-11-27T15:34:42Z",
   "entries": [
     {
       "id": "f3a6c78eb2dc40808b5a8ba413fc7730",
@@ -25,14 +25,14 @@
       "description": ""
     },
     {
-      "id": "1816557771554d61ac7f6c4b355f4a2a",
-      "name": "AXC PREMIUM V2 ",
+      "id": "9174c14266674404ad0ec5ba25a8fa7c",
+      "name": "A X C PREMIUM V2",
       "fileName": "A X C.exe",
-      "version": "3.0.0",
+      "version": "4.0.0",
       "fileSha256": "8cbe8d3c59a2c7ce564ee3b1512b466c8facf83ed27ff1d3e116dd052e47a46c",
       "fileSizeBytes": 10408960,
       "isEnabled": true,
-      "uploadedAt": "2026-11-27T15:33:37Z",
+      "uploadedAt": "2026-11-27T15:34:42Z",
       "description": ""
     }
   ]
